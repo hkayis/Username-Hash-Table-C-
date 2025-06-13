@@ -13,4 +13,3 @@ This project is a simple hash table implementation using separate chaining to ma
 - `removeuser()` – Deletes a user by name
 - `displayhash()` – Shows full hash table content
 
-## Sample Output
